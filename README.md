@@ -1,12 +1,12 @@
 <img width="451" height="115" alt="image" src="https://github.com/user-attachments/assets/beb95abf-936f-4a11-9bab-a6e2f8287d9b" />
 
 QuillBot Premium Patcher - Education only
-by RyanShare
+by RyanShare. 
 See update on Telegram: https://t.me/ryansharechannel
 
 # 🧩 How to Install and Run the `quillbotpremiumpatcher.js` Script in Tampermonkey
 
-This guide will walk you through every step — from installing the Tampermonkey extension, creating a new script, copying the code from `abcd.js`, and running it successfully in your browser.
+This guide will walk you through every step — from installing the Tampermonkey extension, creating a new script, copying the code from `quillbotpremiumpatcher.js`, and running it successfully in your browser.
 ## 🧱 1. Install the Tampermonkey Extension
 Tampermonkey is a popular browser extension that allows you to run custom JavaScript (called **userscripts**) on specific websites.
 ### 🔹 For Google Chrome or Edge
