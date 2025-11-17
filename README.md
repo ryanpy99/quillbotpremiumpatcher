@@ -19,6 +19,9 @@ Tampermonkey is a popular browser extension that allows you to run custom JavaSc
 1. Go to: [https://addons.mozilla.org/firefox/addon/tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey)
 2. Click **“Add to Firefox”** → **“Add”**.
 3. Once installed, the Tampermonkey icon will appear in the top-right corner.
+
+For users of the Tampermonkey extension (version 5.3+) in a Chrome-based browser, enabling either the **"Allow User Scripts"** toggle (available in Chrome 138+ via extension settings) or **Developer Mode is required**.
+
 ---
 ## 📁 2. Download or Open the `quillbotpremiumpatcher.js` File
 Make sure you have your JavaScript file (`quillbotpremiumpatcher.js`) saved on your computer.
